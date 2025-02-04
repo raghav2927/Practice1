@@ -1,0 +1,5 @@
+New data line
+{
+if i=1;
+print="nothing";
+}
